@@ -1,5 +1,7 @@
 🚀 Space Shooter - 2D Arcade Game
 ![Oynanış Videosu](Resim_video/spaceshoter.gif)
+
+
 Space Shooter, üniversite eğitimimin 2. sınıf 1. döneminde geliştirdiğim, Unity motoru ve C# dili üzerine temellendirilmiş dinamik bir arcade oyun projesidir. Bu projede temel amacım, oyun mekaniklerini matematiksel sınırlandırmalar ve fizik motoruyla optimize ederek akıcı bir kullanıcı deneyimi sunmaktı.
 
 🛠️ Teknik Özellikler ve Kazanımlar
